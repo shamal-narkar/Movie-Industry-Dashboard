@@ -7,6 +7,7 @@ It helps explore key trends such as top-performing movies, genre popularity, rev
 
 
 **📊 Key Features**
+
 ✅ Top-rated movies based on audience and critic scores
 
 ✅ Genre analysis – popularity trends over time
