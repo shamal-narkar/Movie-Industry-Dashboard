@@ -5,7 +5,8 @@ This project is an interactive Power BI dashboard that provides deep insights in
 
 It helps explore key trends such as top-performing movies, genre popularity, revenue insights, and audience preferences.
 
-📊 Key Features
+
+**📊 Key Features**
 ✅ Top-rated movies based on audience and critic scores
 
 ✅ Genre analysis – popularity trends over time
